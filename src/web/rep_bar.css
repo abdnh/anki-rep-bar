@@ -1,0 +1,19 @@
+#rep-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 24px;
+    display: flex;
+}
+
+.rep-block {
+    background-color: #85929c;
+    flex-basis: var(--rep-block-width);
+}
+#rep-bar.bordered .rep-block {
+    border: solid black 4px;
+}
+.rep-block.passed {
+    background-color: white;
+}

@@ -1,0 +1,15 @@
+-r base.in
+-r bundle.in
+aqt[qt6]
+# Transitive Windows dependencies
+psutil; sys.platform == "win32"
+pywin32; sys.platform == "win32"
+mypy
+pylint
+black
+isort
+pyupgrade
+pytest
+pytest-cov
+pre-commit
+ankiscripts[forms] @ git+https://github.com/abdnh/ankiscripts@ed96ad699fe9dd52e6baec92e4619664fe28fd15
