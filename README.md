@@ -2,6 +2,8 @@
 
 This Anki add-on shows a bar to the bottom of the review screen indicating the number of remaining reviews.
 
+![Screenshot](images/shot1.png)
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
