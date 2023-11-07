@@ -1,5 +1,5 @@
 {
-    "homepage": "https://github.com/abdnh/anki-addon-template",
+    "homepage": "https://github.com/abdnh/anki-rep-bar",
     "min_point_version": 45,
     "name": "Repetition Counter",
     "package": "rep_counter"
