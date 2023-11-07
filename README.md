@@ -4,6 +4,10 @@ This Anki add-on shows a bar to the bottom of the review screen indicating the n
 
 ![Screenshot](images/shot1.png)
 
+## Download
+
+You can download the add-om from AnkiWeb: [2855055](https://ankiweb.net/shared/info/2855055)
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.

@@ -1,6 +1,7 @@
 {
+    "ankiewb_id": "2855055",
     "homepage": "https://github.com/abdnh/anki-rep-bar",
-    "min_point_version": 45,
+    "min_point_version": 35,
     "name": "Repetition Counter",
     "package": "rep_counter"
 }
